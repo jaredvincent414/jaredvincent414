@@ -15,6 +15,10 @@ Hi, I am Vincent. I am currently a sophomore at Brandeis University studying Com
 ### 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+## Top projects
+- [ViewPesa – Offline M-Pesa SMS Analyzer (Flutter)](https://github.com/jaredvincent414/viewpesa2)
+- [Youtube downloader](https://github.com/jaredvincent/youtube.downloader)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=jaredvincent414&icon=0&color=0)](https://visitcount.itsvg.in)
 
