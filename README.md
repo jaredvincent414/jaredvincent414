@@ -2,7 +2,7 @@
 I’m Vincent, a Computer Science and Economics student at Brandeis University passionate about software engineering, machine learning, and building impactful technology. I enjoy creating projects across web, mobile, and backend development, and I’m always exploring new ways to grow my skills and solve meaningful problems through tech.
 
 
-##Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vincentjared/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jaredvincent18@gmail.com) 
 
 # 💻 Tech Stack:
